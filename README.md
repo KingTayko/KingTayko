@@ -22,7 +22,7 @@ Sou um estudante de programação no 4º semestre na Faculdade de Tecnologia de 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTayko&layout=compact" style="margin-left: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTayko&layout=compact&theme=radical" style="margin-left: 20px;">
 </div>
 
 
@@ -49,4 +49,4 @@ Sou um estudante de programação no 4º semestre na Faculdade de Tecnologia de 
   
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9703C9&height=120&section=footer"/>
