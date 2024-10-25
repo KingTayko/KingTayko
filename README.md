@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Thiago+Pereira+De+Jesus+Souza;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-# System.out.println("Olá, eu sou o Thiago"); 
+## System.out.println("Olá, eu sou o Thiago"); 
 
 Sou um estudante de programação no 4º semestre na Faculdade de Tecnologia de Praia Grande (Fatec), com habilidades em diversas linguagens, incluindo HTML, CSS, C++, C#, PHP, Python, além de desenvolvimento de aplicativos para Android usando Java e Kotlin. Tenho experiência em sistemas embarcados com Arduino IDE e sou capaz de trabalhar com bancos de dados relacionais e não relacionais. Estou entusiasmado para aplicar meu conhecimento em projetos desafiadores e contribuir com soluções eficazes na área de tecnologia.
 
@@ -48,5 +46,5 @@ Sou um estudante de programação no 4º semestre na Faculdade de Tecnologia de 
   </a>
   
 </div>
-
+##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9703C9&height=120&section=footer"/>
