@@ -44,7 +44,5 @@ Sou um estudante de programação no 4º semestre na Faculdade de Tecnologia de 
   <a href="https://www.linkedin.com/in/thiago-pereira-de-jesus-souza/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-wolski" height="30" width="40" />
   </a>
-  
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9703C9&height=120&section=footer"/>
