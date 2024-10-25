@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9703C9&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Thiago+Pereira+De+Jesus+Souza;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
