@@ -20,7 +20,6 @@ Sou um Desenvolvedor Full Stack com foco em aplicações mobile e web, utilizand
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingTayko&layout=compact&theme=radical" style="margin-left: 20px;">
 </div>
 
 
